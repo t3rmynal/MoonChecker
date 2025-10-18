@@ -1,7 +1,90 @@
-MoonChecker License
+MoonChecker License  
+Copyright (c) 2025 nakanune  
 
-Copyright (c) 2025 nakanune
+1. Ownership and Purpose  
+MoonChecker is a proprietary software project created and owned by nakanune (also known as ragewitz, t3rmynal).  
+All intellectual property rights in MoonChecker, including but not limited to the source code, binaries, design, and related documentation, remain the exclusive property of the author.
 
-MoonChecker is provided for personal, educational, or non-commercial use only. Commercial use, resale, or redistribution of the software in any form is strictly prohibited without the author’s written permission. The source code is closed and may not be shared, sold, or published without explicit consent from the author.
+2. Permitted Use  
+- You may install, use, and modify the software for personal, educational, and non-commercial purposes.  
+- You are allowed to freely distribute the original or modified version of the software for free only. Distribution must not involve any fees, payments, donations, or other compensation.  
+- Any commercial use, redistribution within monetized projects, or paid distribution requires prior written permission from the author.  
+- Free distribution means no fees, payments, or any other form of compensation may be requested in exchange for access to the software.
 
-You may modify the software for personal use, but redistribution of modified versions is allowed only for non-commercial purposes and with credit to the original author. The software is provided “as is” without any warranties, and the author is not responsible for any damages, data loss, or other consequences resulting from its use.
+3. Retention of Rights  
+This license does not transfer ownership of MoonChecker or any associated intellectual property rights.  
+All rights not expressly granted under this license are reserved by the author.  
+Licensees are strictly prohibited from claiming ownership, co-authorship, or authorship of MoonChecker or its components, whether original or modified.
+
+4. User Responsibility  
+The user assumes full responsibility for the use of MoonChecker, including compliance with all applicable local, national, and international laws.  
+The author shall not be held liable for any misuse, legal violations, damages, or consequences resulting from the use, modification, or redistribution of the software by third parties, or from the use of the original, unmodified version of the software itself.  
+All risks associated with the installation, execution, and distribution of the software are borne solely by the user.
+
+5. Anti-Tampering  
+Users are strictly prohibited from bypassing, altering, disabling, reverse engineering, decompiling, decrypting, or interfering with any technical protection measures, security mechanisms, or license enforcement features within MoonChecker.  
+Any attempt to do so constitutes a material breach of this license and results in the immediate termination of granted rights.
+
+6. International Protection  
+MoonChecker and its associated intellectual property are protected under the Berne Convention and other applicable international copyright treaties.  
+No registration is required for these rights to be valid and enforceable.  
+Any unauthorized use, reproduction, or distribution constitutes copyright infringement and may result in legal action, including civil and criminal penalties.
+
+7. Severability and Entire Agreement  
+If any provision of this license is held to be invalid, illegal, or unenforceable, the remaining provisions shall remain in full force and effect.  
+This license constitutes the entire agreement between the author and the user regarding MoonChecker and supersedes any prior agreements, understandings, or representations.
+
+8. Commercial Use and Integration  
+- Any use of MoonChecker for commercial purposes, including but not limited to integration or redistribution within other projects (e.g., CS2 projects, games, or software sold or monetized in any way), requires prior written permission from the author.  
+- Permission can be requested by contacting the author directly via Telegram (@your_telegram) or Discord (your#1234).  
+- Granting of permission is at the sole discretion of the author and may be revoked at any time.
+
+9. Restrictions  
+You are strictly prohibited from:  
+- Selling, reselling, licensing, or distributing MoonChecker for any monetary or material gain without prior written permission from the author.  
+- Charging money for access, downloads, redistribution, or any use of the software.  
+- Publishing, uploading, or otherwise disclosing the source code publicly without explicit written permission from the author.  
+- Removing or modifying any copyright notices, author credits, or license terms.  
+- Redistributing the software through public repositories or platforms (such as GitHub, GitLab, etc.) if such distribution involves paid access or commercial benefit, without explicit written permission from the author.
+
+10. Attribution  
+When sharing free versions or modifications, you must include clear and visible credit:  
+“Original version by nakanune (also known as ragewitz, t3rmynal).”  
+You must not misrepresent the origin, ownership, or authorship of the software.
+
+11. Disclaimer of Warranty and Liability  
+MoonChecker is provided “as is,” without any express or implied warranties, including but not limited to performance, reliability, or fitness for a particular purpose.  
+The author does not assume any responsibility for:  
+- Modifications made to the software by third parties,  
+- Any negative effects, damages, or data loss resulting from the use of the software, whether original or modified,  
+- Any consequences of using or distributing the software in any environment or scenario.
+
+12. Updates and Maintenance  
+Users are responsible for monitoring and keeping track of any updates, changes, or improvements to MoonChecker.  
+The author is under no obligation to provide updates, fixes, or enhancements, and users may not hold the author liable for the absence of updates or improvements.
+
+13. Termination  
+Any violation of this license results in the immediate and automatic termination of all granted rights without prior notice.  
+Upon termination, the user must immediately cease all use, distribution, and possession of MoonChecker and its derivatives.  
+The author reserves the right to take legal action, including claims for damages, injunctions, or other remedies.
+
+14. Governing Law and Jurisdiction  
+This license shall be governed by and construed in accordance with the applicable international copyright law and the laws of the author’s jurisdiction.  
+Any disputes arising from or relating to this license shall be subject to the exclusive jurisdiction of the competent courts of the author’s country or chosen legal venue.
+
+15. Acceptance  
+By installing, copying, modifying, or using MoonChecker, you acknowledge that you have read, understood, and agree to comply with all terms of this license.  
+Violation of any terms constitutes copyright infringement and may result in legal action, financial liability, and permanent revocation of all usage rights.
+
+16. Authorized Partner Rights  
+The project https://cs2-moon.ru/ is recognized as an official authorized partner of MoonChecker.  
+Both the author (nakanune) and the authorized partner share ownership and certain rights over MoonChecker.  
+The authorized partner has the right to:  
+- Implement, integrate, and distribute MoonChecker within their platform and related projects.  
+- Submit, request, or propose modifications and updates to MoonChecker in coordination with the author.  
+- Use MoonChecker within their services without needing a separate license for each modification.  
+
+These rights cannot be transferred to others.  
+Both the author and the authorized partner retain control over their respective rights, and neither party can unilaterally revoke the partner’s ownership or usage rights.
+
+© 2025 nakanune — All Rights Reserved.
